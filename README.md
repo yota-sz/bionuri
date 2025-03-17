@@ -1,23 +1,30 @@
 # How To Start
+trus kalau udah selesai semuanya, langsung open with live server di vsc nya
 
 ## Clone Repository
 buat nge copy semua isi directory ini
 
-`git clone https://github.com/yota-sz/bionuri.git`
+```bash
+git clone git clone https://github.com/yota-sz/bionuri.git
+```
 
 ## Masuk ke Folder Project
 setelah selesai nge copy semua directorynya, masuk ke folder nya pake
 
-`cd bionuri`
+```bash
+cd bionuri
+```
 
 ## Install Dependency
 kalau udah masuk, langsung install semua dependency nya
 
-`npm install`
+```bash
+npm install
+```
 
 ## Run Project
 kalau semua udah selesai, tinggal run pake
 
-`npm install`
-
-trus langsung open with live server di vsc nya
+```bash
+npm run dev
+```
