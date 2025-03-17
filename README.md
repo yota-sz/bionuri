@@ -3,7 +3,7 @@
 ## Clone Repository
 buat nge copy semua isi directory ini
 
-`git clone git clone https://github.com/yota-sz/bionuri.git`
+`git clone https://github.com/yota-sz/bionuri.git`
 
 ## Masuk ke Folder Project
 setelah selesai nge copy semua directorynya, masuk ke folder nya pake
